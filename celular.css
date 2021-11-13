@@ -1,0 +1,11 @@
+.zoom{
+     background-color: green;
+  transition: transform .2s; /* Animation */
+  width: 600px;
+  height: 60px;
+  margin: 4px;
+  color:  floralwhite;
+  border-style: none;
+  font-weight: bold;
+  font-size: 50px;
+}
